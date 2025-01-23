@@ -1,0 +1,11 @@
+{
+  "name": "environmental",
+  "private": true,
+  "packageManager": "yarn@4.4.1",
+  "workspaces": {
+    "packages": [
+      "apps/*",
+      "packages/*"
+    ]
+  }
+}
